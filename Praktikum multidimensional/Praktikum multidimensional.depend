@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585121699 source:d:\programming\c++\praktikum multidimensional\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580815453 source:d:\programming\c++\tugas besar dasprog\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

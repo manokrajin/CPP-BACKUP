@@ -1,0 +1,8 @@
+Artist 			 Title 			 Price 			 Genre 
+Muse 		 Black Holes and Revelations 	 9.99 			 Rock
+Muse 		 The Resistance 		 11.99 			 Rock 
+Mr. Scruff 	 Ninja Tuna 			 9.99 			 Electronica
+Deadmau5 	 For Lack of Better Name 	 9.99 			 Electro House 
+Mark Ronson 	 Record Collection 		 11.99 			 Alternative Rock
+Mark Ronson 	 Version 			 12.99 			 Pop 
+Animal Collective  Merriweather Post Pavilion 	 12.99 			 Electronica

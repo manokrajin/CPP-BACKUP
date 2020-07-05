@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580272537 source:d:\programming\c++\praktikum dasprog 1\main.cpp
+	<iostream>
+	<fstream>
+

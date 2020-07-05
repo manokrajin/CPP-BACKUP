@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580658351 source:d:\programming\c++\tegar\main.cpp
+	<iostream>
+	<fstream>
+
